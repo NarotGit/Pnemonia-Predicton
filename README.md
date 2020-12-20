@@ -1,1 +1,24 @@
 # Pnemonia-Predicton
+
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.7](https://img.shields.io/badge/Python-3.7-brightgreen.svg) ![Library](https://img.shields.io/badge/Library-kears%202.3.1-orange) ![Library](https://img.shields.io/badge/Library-Tensorflow%201.14.0-red)
+
+• Dataset:(https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+
+• Reason for this Project is that Deep Learning has shown immense results in medical imaging. It is due to the high volume of data that is generated in the medical domain. There are several use cases where AI technologies are used today in the healthcare domain.<br> 
+So __Objective__ of this Project is to Build an moadel to automatically identify whether a patient is suffering from pneumonia or not by looking at chest X-ray images.
+
+• This repository consists of files required to deploy a __Deep Learning model__ for Detecting Pneumonia from X-ray Images and Web app ___created with Flask___.<br>
+
+
+• If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model...Click the link mentioned below for the same:
+link:"https://github.com/NarotGit/Pnemonia-Predicton/blob/main/PneumoniaDetection.ipynb"
+
+• For complete project files to deploy this model.link below:
+Link:"https://github.com/NarotGit/Pnemonia-Predicton"
+
+•  Please do ⭐ the repository, if it helped you in anyway.
+
+• A glimpse of the web app:
+
+![ezgif-4-882818488cba](https://user-images.githubusercontent.com/76248668/102696992-6260d300-4258-11eb-9388-6810b8979f2b.gif)
+
