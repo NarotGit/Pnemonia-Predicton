@@ -20,5 +20,6 @@ Link:"https://github.com/NarotGit/Pnemonia-Predicton"
 
 • A glimpse of the web app:
 
-![ezgif-4-882818488cba](https://user-images.githubusercontent.com/76248668/102696992-6260d300-4258-11eb-9388-6810b8979f2b.gif)
+![glimpse](https://user-images.githubusercontent.com/76248668/102723228-aae9c080-432c-11eb-8522-6e3fd682b017.gif)
+
 
