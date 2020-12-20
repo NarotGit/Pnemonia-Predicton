@@ -16,7 +16,7 @@ link:"https://github.com/NarotGit/Pnemonia-Predicton/blob/main/PneumoniaDetectio
 • For complete project files to deploy this model.link below:
 Link:"https://github.com/NarotGit/Pnemonia-Predicton"
 
-• If you want my saved model to run and deploy Here is the __link:__ (https://drive.google.com/file/d/1fgUgWASi52fCpr4O8zL366oOhezmy_Gr/view?usp=sharing)
+• If you want my saved model to run and deploy, Here is the __link:__ (https://drive.google.com/file/d/1fgUgWASi52fCpr4O8zL366oOhezmy_Gr/view?usp=sharing)
 
 •  Please do ⭐ the repository, if it helped you in anyway.
 
