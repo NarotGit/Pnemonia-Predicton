@@ -10,11 +10,13 @@ So __Objective__ of this Project is to Build an model to automatically identify 
 • This repository consists of files required to deploy a __Deep Learning model__ for Detecting Pneumonia from X-ray Images and Web app ___created with Flask___.<br>
 
 
-• If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model...Click the link mentioned below for the same:
+• If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model...Click the link mentioned below:
 link:"https://github.com/NarotGit/Pnemonia-Predicton/blob/main/PneumoniaDetection.ipynb"
 
 • For complete project files to deploy this model.link below:
 Link:"https://github.com/NarotGit/Pnemonia-Predicton"
+
+• If you want my saved model to run and deploy Here is the __link:__ (https://drive.google.com/file/d/1fgUgWASi52fCpr4O8zL366oOhezmy_Gr/view?usp=sharing)
 
 •  Please do ⭐ the repository, if it helped you in anyway.
 
