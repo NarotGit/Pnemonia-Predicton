@@ -5,7 +5,8 @@
 • Dataset:(https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
 • Reason for this Project is that Deep Learning has shown immense results in medical imaging. It is due to the high volume of data that is generated in the medical domain. There are several use cases where AI technologies are used today in the healthcare domain.<br> 
-So __Objective__ of this Project is to Build an model to automatically identify whether a patient is suffering from pneumonia or not by looking at chest X-ray images.
+
+• __Objective__ of this Project is to Build an model to automatically identify whether a patient is suffering from pneumonia or not by looking at chest X-ray images.
 
 • This repository consists of files required to deploy a __Deep Learning model__ for Detecting Pneumonia from X-ray Images and Web app ___created with Flask___.<br>
 
